@@ -1,0 +1,10 @@
+yt_dlp
+openai
+deepgram-sdk
+python-dotenv
+elevenlabslib
+argparse
+azure-storage-blob
+azure-identity
+tiktoken
+pyyaml

@@ -1,0 +1,22 @@
+- blog_post:
+  slug: better-midjourney-prompts-with-chatgpt
+  title: Better Mid-Journey Prompts with ChatGPT
+  video_urls:
+    - https://www.youtube.com/watch?v=ka1Pqk2o3tM
+# - blog_post:
+#   slug: how-to-utilize-chatgpt-with-custom-data
+#   title: How to utilize ChatGPT with custom data
+#   video_urls:
+#     - https://www.youtube.com/watch?v=P_CHTabYa-0
+#     - https://www.youtube.com/watch?v=sUSw9MaPm2M
+#     - https://www.youtube.com/watch?v=Yhtjd7yGGGA
+# - blog_post:
+#   slug: will-llm-models-be-the-execution-engine-of-the-future
+#   title: Will LLM Models be the Execution Engine of the Future?
+#   video_urls:
+#     - https://www.youtube.com/watch?v=ZQYQ2J9ZQ0s
+# - blog_post:
+#   slug: composability-in-llms
+#   title: Composability in LLMs
+#   video_urls:
+#     - https://www.youtube.com/watch?v=_v_fgW2SkkQ
